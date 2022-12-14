@@ -1,4 +1,4 @@
 # HELLO!
 Personal website/portfolio
 
-https://calebfederman.github.io/home/
+https://calebfederman.github.io/
